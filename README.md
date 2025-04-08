@@ -13,7 +13,7 @@ pinned: false
 This is a Gradle-based application that uses DiffusionPipeline to generate high-quality images from text prompts. Designed to run seamlessly on Hugging Face Spaces.
 
 
-[![Sync to Hugging Face hub](https://github.com/mkx07/huggingface-text-to-image/actions/workflows/main.yml/badge.svg)](https://github.com/ARG-NCTU/huggingface-text-to-image/actions/workflows/main.yml)
+[![Sync to Hugging Face hub](https://github.com/mkx07/huggingface-text-to-image/actions/workflows/main.yml/badge.svg)](https://github.com/mkx07/huggingface-text-to-image/actions/workflows/main.yml)
 
 
 Try Demo Text To Image [Here](https://huggingface.co/spaces/mkx07/text-to-image)
